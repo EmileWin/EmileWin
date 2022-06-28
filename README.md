@@ -41,3 +41,9 @@ I am a Software Engineer specialized in Full-stack JavaScript development. I cur
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200"/>
+</div>

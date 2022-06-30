@@ -7,8 +7,7 @@
     <a href="https://leetcode.com/eminTheFirst/">
       <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
     </a>
-  </div><br>
-  <img src="https://komarev.com/ghpvc/?username=EmileWin&style=flat&color=red" alt=""/>
+  </div>
 </div>
 
 ---

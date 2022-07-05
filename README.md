@@ -12,13 +12,13 @@
 
 ---
 
-### :man_technologist: About Me:
+### Me:
 
 I am a Software Engineer specialized in Full-stack JavaScript development. I currently reside in Lithuania :lithuania:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

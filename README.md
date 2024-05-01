@@ -9,9 +9,7 @@
 
 ---
 
-### Me:
-
-Cybersecurity master's student interested in Web, Network and Software Security. I currently reside in Germany
+### Me: Cybersecurity master's student interested in Web, Network and Software Security. I currently reside in Germany
 
 ---
 

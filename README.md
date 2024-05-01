@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/emin-fataliyev/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://leetcode.com/eminTheFirst/">
-      <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-    </a>
   </div>
 </div>
 
@@ -14,7 +11,7 @@
 
 ### Me:
 
-I am a Software Engineer specialized in Full-stack JavaScript development. I currently reside in Lithuania :lithuania:
+Cybersecurity master's student interested in Web, Network and Software Security. I currently reside in Germany :germany:
 
 ---
 
